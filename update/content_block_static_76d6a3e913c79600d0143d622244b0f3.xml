@@ -12,13 +12,11 @@
         <sys_class_name>content_block_static</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2016-04-28 01:28:57</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
         <sys_id>76d6a3e913c79600d0143d622244b0f3</sys_id>
         <sys_mod_count>6</sys_mod_count>
         <sys_name>K16 Alexa Demo Dashboard Header</sys_name>
         <sys_package display_value="Amazon Echo" source="x_snc_amazon_echo">101eb7da13a21200d0143d622244b063</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Amazon Echo">101eb7da13a21200d0143d622244b063</sys_scope>
         <sys_update_name>content_block_static_76d6a3e913c79600d0143d622244b0f3</sys_update_name>
         <sys_updated_by>jc</sys_updated_by>
@@ -27,9 +25,9 @@
     <sys_translated_text action="delete_multiple" query="documentkey=76d6a3e913c79600d0143d622244b0f3"/>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>Pasted Image.png</file_name>
         <image_height>89</image_height>
         <image_width>1128</image_width>
@@ -136,9 +134,9 @@
     </sys_attachment_doc>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>Pasted Image.png</file_name>
         <image_height>107</image_height>
         <image_width>1240</image_width>
@@ -452,9 +450,9 @@
     </sys_attachment_doc>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>Pasted Image.png</file_name>
         <image_height>100</image_height>
         <image_width>808</image_width>
@@ -633,9 +631,9 @@
     </sys_attachment_doc>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>Pasted Image.png</file_name>
         <image_height>65</image_height>
         <image_width>815</image_width>
@@ -769,9 +767,9 @@
     </sys_attachment_doc>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>Pasted Image.png</file_name>
         <image_height>93</image_height>
         <image_width>989</image_width>
@@ -950,9 +948,9 @@
     </sys_attachment_doc>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>Pasted Image.png</file_name>
         <image_height>94</image_height>
         <image_width>1235</image_width>

@@ -41,6 +41,8 @@
         <element>script</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
         <internal_type display_value="Script">script</internal_type>
         <mandatory>false</mandatory>
         <max_length>8000</max_length>
@@ -62,13 +64,11 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2016-04-15 17:37:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
         <sys_id>f38744bd13fe9200d0143d622244b0bf</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Script</sys_name>
         <sys_package display_value="Amazon Echo" source="x_snc_amazon_echo">101eb7da13a21200d0143d622244b063</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Amazon Echo">101eb7da13a21200d0143d622244b063</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_amazon_echo_utterance_script</sys_update_name>
         <sys_updated_by>jc</sys_updated_by>
